@@ -1,0 +1,46 @@
+C:\Users\lavis\Desktop\Prg Project Final\bin\Debug\netcoreapp3.1\Prg455_project_Finished.exe
+C:\Users\lavis\Desktop\Prg Project Final\bin\Debug\netcoreapp3.1\Prg455_project_Finished.deps.json
+C:\Users\lavis\Desktop\Prg Project Final\bin\Debug\netcoreapp3.1\Prg455_project_Finished.runtimeconfig.json
+C:\Users\lavis\Desktop\Prg Project Final\bin\Debug\netcoreapp3.1\Prg455_project_Finished.runtimeconfig.dev.json
+C:\Users\lavis\Desktop\Prg Project Final\bin\Debug\netcoreapp3.1\Prg455_project_Finished.dll
+C:\Users\lavis\Desktop\Prg Project Final\bin\Debug\netcoreapp3.1\Prg455_project_Finished.pdb
+C:\Users\lavis\Desktop\Prg Project Final\obj\Debug\netcoreapp3.1\Prg455_project_Finished.csprojAssemblyReference.cache
+C:\Users\lavis\Desktop\Prg Project Final\obj\Debug\netcoreapp3.1\Lab4GameOfLife.GameGui.resources
+C:\Users\lavis\Desktop\Prg Project Final\obj\Debug\netcoreapp3.1\Prg455_project_Finished.csproj.GenerateResource.cache
+C:\Users\lavis\Desktop\Prg Project Final\obj\Debug\netcoreapp3.1\Prg455_project_Finished.AssemblyInfoInputs.cache
+C:\Users\lavis\Desktop\Prg Project Final\obj\Debug\netcoreapp3.1\Prg455_project_Finished.AssemblyInfo.cs
+C:\Users\lavis\Desktop\Prg Project Final\obj\Debug\netcoreapp3.1\Prg455_project_Finished.csproj.CoreCompileInputs.cache
+C:\Users\lavis\Desktop\Prg Project Final\obj\Debug\netcoreapp3.1\Prg455_project_Finished.dll
+C:\Users\lavis\Desktop\Prg Project Final\obj\Debug\netcoreapp3.1\Prg455_project_Finished.pdb
+C:\Users\lavis\Desktop\Prg Project Final\obj\Debug\netcoreapp3.1\Prg455_project_Finished.genruntimeconfig.cache
+C:\Users\lavis\Desktop\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.exe
+C:\Users\lavis\Desktop\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.deps.json
+C:\Users\lavis\Desktop\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.runtimeconfig.json
+C:\Users\lavis\Desktop\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.runtimeconfig.dev.json
+C:\Users\lavis\Desktop\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.dll
+C:\Users\lavis\Desktop\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.pdb
+C:\Users\lavis\Desktop\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.csprojAssemblyReference.cache
+C:\Users\lavis\Desktop\FinalProject\obj\Debug\netcoreapp3.1\Lab4GameOfLife.GameGui.resources
+C:\Users\lavis\Desktop\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.csproj.GenerateResource.cache
+C:\Users\lavis\Desktop\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.AssemblyInfoInputs.cache
+C:\Users\lavis\Desktop\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.AssemblyInfo.cs
+C:\Users\lavis\Desktop\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.csproj.CoreCompileInputs.cache
+C:\Users\lavis\Desktop\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.dll
+C:\Users\lavis\Desktop\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.pdb
+C:\Users\lavis\Desktop\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.genruntimeconfig.cache
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.exe
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.deps.json
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.runtimeconfig.json
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.runtimeconfig.dev.json
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.dll
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\bin\Debug\netcoreapp3.1\Prg455_project_Finished.pdb
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.csproj.AssemblyReference.cache
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\obj\Debug\netcoreapp3.1\Lab4GameOfLife.GameGui.resources
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.csproj.GenerateResource.cache
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.AssemblyInfoInputs.cache
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.AssemblyInfo.cs
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.csproj.CoreCompileInputs.cache
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.dll
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.pdb
+C:\Users\lavis\Desktop\X-)\6th sem\Extra\FinalProject\obj\Debug\netcoreapp3.1\Prg455_project_Finished.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\bin\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.exe
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\bin\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.deps.json
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\bin\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.runtimeconfig.json
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\bin\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.runtimeconfig.dev.json
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\bin\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.dll
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\bin\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.pdb
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\obj\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.csprojAssemblyReference.cache
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\obj\Debug\netcoreapp3.1\Lab4GameOfLife.GameGui.resources
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\obj\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.csproj.GenerateResource.cache
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\obj\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.AssemblyInfoInputs.cache
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\obj\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.AssemblyInfo.cs
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\obj\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.csproj.CoreCompileInputs.cache
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\obj\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.dll
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\obj\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.pdb
+C:\Users\lavis\Desktop\Prg Project Save 10 scale ongoing\obj\Debug\netcoreapp3.1\Prg455_project_SAVEWORKING.genruntimeconfig.cache

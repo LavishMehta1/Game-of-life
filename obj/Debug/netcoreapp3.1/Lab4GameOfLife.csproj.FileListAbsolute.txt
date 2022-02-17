@@ -1,0 +1,30 @@
+C:\Users\lavis\source\repos\Lab 4\bin\Debug\netcoreapp3.1\Lab4GameOfLife.exe
+C:\Users\lavis\source\repos\Lab 4\bin\Debug\netcoreapp3.1\Lab4GameOfLife.deps.json
+C:\Users\lavis\source\repos\Lab 4\bin\Debug\netcoreapp3.1\Lab4GameOfLife.runtimeconfig.json
+C:\Users\lavis\source\repos\Lab 4\bin\Debug\netcoreapp3.1\Lab4GameOfLife.runtimeconfig.dev.json
+C:\Users\lavis\source\repos\Lab 4\bin\Debug\netcoreapp3.1\Lab4GameOfLife.dll
+C:\Users\lavis\source\repos\Lab 4\bin\Debug\netcoreapp3.1\Lab4GameOfLife.pdb
+C:\Users\lavis\source\repos\Lab 4\obj\Debug\netcoreapp3.1\Lab4GameOfLife.csprojAssemblyReference.cache
+C:\Users\lavis\source\repos\Lab 4\obj\Debug\netcoreapp3.1\Lab4GameOfLife.csproj.GenerateResource.cache
+C:\Users\lavis\source\repos\Lab 4\obj\Debug\netcoreapp3.1\Lab4GameOfLife.AssemblyInfoInputs.cache
+C:\Users\lavis\source\repos\Lab 4\obj\Debug\netcoreapp3.1\Lab4GameOfLife.AssemblyInfo.cs
+C:\Users\lavis\source\repos\Lab 4\obj\Debug\netcoreapp3.1\Lab4GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\Lab 4\obj\Debug\netcoreapp3.1\Lab4GameOfLife.dll
+C:\Users\lavis\source\repos\Lab 4\obj\Debug\netcoreapp3.1\Lab4GameOfLife.pdb
+C:\Users\lavis\source\repos\Lab 4\obj\Debug\netcoreapp3.1\Lab4GameOfLife.genruntimeconfig.cache
+C:\Users\lavis\source\repos\Lab 4\obj\Debug\netcoreapp3.1\Lab4GameOfLife.GameGui.resources
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Lab4GameOfLife.exe
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Lab4GameOfLife.deps.json
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Lab4GameOfLife.runtimeconfig.json
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Lab4GameOfLife.runtimeconfig.dev.json
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Lab4GameOfLife.dll
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Lab4GameOfLife.pdb
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Lab4GameOfLife.csprojAssemblyReference.cache
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Lab4GameOfLife.GameGui.resources
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Lab4GameOfLife.csproj.GenerateResource.cache
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Lab4GameOfLife.AssemblyInfoInputs.cache
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Lab4GameOfLife.AssemblyInfo.cs
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Lab4GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Lab4GameOfLife.dll
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Lab4GameOfLife.pdb
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Lab4GameOfLife.genruntimeconfig.cache

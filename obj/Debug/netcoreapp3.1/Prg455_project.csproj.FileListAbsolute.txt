@@ -1,0 +1,15 @@
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Prg455_project.csprojAssemblyReference.cache
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Lab4GameOfLife.GameGui.resources
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Prg455_project.csproj.GenerateResource.cache
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Prg455_project.AssemblyInfoInputs.cache
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Prg455_project.AssemblyInfo.cs
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Prg455_project.csproj.CoreCompileInputs.cache
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Prg455_project.exe
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Prg455_project.deps.json
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Prg455_project.runtimeconfig.json
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Prg455_project.runtimeconfig.dev.json
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Prg455_project.dll
+C:\Users\lavis\Desktop\Prg Project V.2\bin\Debug\netcoreapp3.1\Prg455_project.pdb
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Prg455_project.dll
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Prg455_project.pdb
+C:\Users\lavis\Desktop\Prg Project V.2\obj\Debug\netcoreapp3.1\Prg455_project.genruntimeconfig.cache
